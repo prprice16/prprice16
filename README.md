@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prprice16
-- 👀 I’m Director of Education at Reskill Americans and have been teaching CS for over 20 years.  I am interested in full stack web development.
+- 👀 I have been teaching CS for over 20 years.  I am interested in full stack web development.
 - 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on apprenticeship opportunities for our participants in Reskill Americans.
 - 📫 How to reach me ...
